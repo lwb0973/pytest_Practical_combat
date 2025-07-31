@@ -1,0 +1,12 @@
+ - id: 01
+   name: '登录功能'
+   url: '192.192.100.100'
+   methed: 3306,
+   parmas: '{"user":"lwb","password":"123"}'
+   code: 200
+ - id: 02
+   name: '登录功能2'
+   url: '192.192.100.100'
+   methed: 3306,
+   parmas: '{"user":"lwb1","password":"1234"}'
+   code: 200

@@ -1,0 +1,8 @@
+2025-06-02 00:27:50,705 - __main__ - INFO - 日志配置读取成功！
+2025-06-02 00:29:31,008 - common.log_handler - INFO - 日志配置读取成功！
+2025-06-02 00:29:31,121 - common.log_handler - INFO - 开始执行用例
+2025-06-02 00:29:31,122 - common.log_handler - ERROR - Header part (UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) from ('token', UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-06-02 00:29:31,126 - common.log_handler - ERROR - Header part (UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) from ('token', UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-06-02 00:29:31,128 - common.log_handler - ERROR - Header part (UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) from ('token', UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-06-02 00:29:31,131 - common.log_handler - ERROR - Header part (UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) from ('token', UUID('20f2efbb-3e89-44fe-9d97-53cd5ce8e495')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-06-02 00:29:31,132 - common.log_handler - INFO - 测试用例结束

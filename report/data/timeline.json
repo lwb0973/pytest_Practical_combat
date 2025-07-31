@@ -1,0 +1,43 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "BF-202006262120",
+    "children" : [ {
+      "name" : "2508-MainThread",
+      "children" : [ {
+        "name" : "test_06",
+        "uid" : "9861606af3be6e45",
+        "parentUid" : "7f0ae8e8adfbfe3ab57fb39a5d7b3c31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1753974846139,
+          "stop" : 1753974846140,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f0ae8e8adfbfe3ab57fb39a5d7b3c31"
+    }, {
+      "name" : "7116-MainThread",
+      "children" : [ {
+        "name" : "test_04",
+        "uid" : "4505f7a06a029d53",
+        "parentUid" : "986c388cd0198cee6598655663d9178f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1753974849277,
+          "stop" : 1753974849277,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "986c388cd0198cee6598655663d9178f"
+    } ],
+    "uid" : "7c1e590eda4ae5a29b495a47e88382a3"
+  } ]
+}

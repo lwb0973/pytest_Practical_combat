@@ -1,0 +1,2 @@
+[32mINFO    [0m common.log_handler:test_demo2.py:18 开始执行用例
+[32mINFO    [0m common.log_handler:test_demo2.py:22 测试用例结束

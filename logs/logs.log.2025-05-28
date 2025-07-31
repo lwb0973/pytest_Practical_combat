@@ -1,0 +1,34 @@
+2025-05-28 23:03:41,562 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:03:41,875 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:04:50,368 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:04:50,665 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:05:46,735 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:05:47,022 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:06:19,511 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:06:19,511 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:06:19,720 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:06:19,766 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:06:19,818 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:06:19,862 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:06:51,587 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:06:51,877 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:10:34,289 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:10:34,582 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:11:20,460 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:11:20,746 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:12:11,849 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:12:12,141 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:13:18,453 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:13:18,453 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:13:18,623 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:13:18,662 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:13:18,707 - common.log_logings - DEBUG - 打印失败用例
+2025-05-28 23:13:18,745 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:13:46,928 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:13:48,386 - common.log_logings - INFO - 测试用例结束
+2025-05-28 23:18:17,141 - common.log_logings - INFO - 开始执行用例
+2025-05-28 23:18:17,143 - common.log_logings - ERROR - Header part (UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) from ('token', UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-05-28 23:18:17,144 - common.log_logings - ERROR - Header part (UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) from ('token', UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-05-28 23:18:17,145 - common.log_logings - ERROR - Header part (UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) from ('token', UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-05-28 23:18:17,147 - common.log_logings - ERROR - Header part (UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) from ('token', UUID('5b2b6fe2-9116-4c63-ab3a-70a84f7c1ce9')) must be of type str or bytes, not <class 'uuid.UUID'>
+2025-05-28 23:18:17,147 - common.log_logings - INFO - 测试用例结束
