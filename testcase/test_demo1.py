@@ -11,6 +11,7 @@ config = ConfigLoader(settings.INI_FILE)
 logger = setup_logger(config)
 dict_datas = dict_data(settings.TEST_EXCEL_FILE, 'Sheet1')
 
+@allure.feature('测试数据')
 @allure.story('测试模块1')
 class TestCase:
     @classmethod
