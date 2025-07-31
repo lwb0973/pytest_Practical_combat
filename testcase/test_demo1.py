@@ -16,7 +16,7 @@ dict_datas = dict_data(settings.TEST_EXCEL_FILE, 'Sheet1')
 class TestCase:
     @classmethod
     def setup_class(cls):
-        logger.info('开始执行用例')
+        logger.info('开始执行用例1')
 
     @classmethod
     def teardown_class(cls):
